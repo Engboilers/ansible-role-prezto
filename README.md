@@ -14,13 +14,13 @@ None.
 
 ## Dependencies
 
-  - [engboilers.zsh](https://galaxy.ansible.com/engboilers/zsh/)
+  - [Engboilers.zsh](https://galaxy.ansible.com/engboilers/zsh/)
 
 ## Example Playbook
 
     - hosts: localhost
       roles:
-        - { role: engboilers.prezto, prezto_execute: true }
+        - { role: Engboilers.prezto, prezto_execute: true }
 
 ## License
 
